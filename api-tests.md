@@ -25,4 +25,4 @@ The API listens on port 5000 and uses the /api prefix.
 Document statuses are DRAFT, VALIDATED, and CANCELLED.
 STL-001, WH-001, WH-002, A-01, and P-01 are present in the supplied seed.
 Run against a local/demo database because the collection adds documents and ledger entries.
-The frontend at port 5173 is separate and must be started independently for UI integration tests.
+The frontend at port 5173 is separate and must be started independently for UI integration tests. 
